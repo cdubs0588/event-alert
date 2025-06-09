@@ -18,7 +18,7 @@ Server and Channel IDs (to track where to send/receive messages)
 
 Message content (only from alerts and messages detected as relevant by the bot logic)
 
-Embed contents (used for parsing data from specific bots such as Dank Memer)
+Embed contents
 
 We do not store or log private user messages, nor do we sell or share any user data with third parties. All data is processed temporarily in-memory unless otherwise stated.
 
